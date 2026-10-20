@@ -1,6 +1,6 @@
 # No-Reference Image Quality Assessment via Frequency-Amplitude Decoupling and Dynamic Ranking Regularization
 
-> **🔒 Double-Blind Peer Review Statement**
+> **🔒 Peer Review Statement**
 > This repository contains the official **inference code** and **pre-trained models** provided strictly for the peer-review process of the manuscript submitted to *Multimedia Systems*. 
 > 
 > To maintain double-blind integrity, all author identities, affiliations, and training scripts (including the *Dynamic Intra-Batch Ranking Regularization* module) have been explicitly removed. The full training framework will be fully open-sourced upon paper acceptance.
